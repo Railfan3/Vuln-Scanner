@@ -1,0 +1,17 @@
+{
+    "scan_date": "2025-07-17T20:23:03.373325",
+    "vulnerabilities": [
+        {
+            "url": "http://testphp.vulnweb.com/search.php?test=query",
+            "payload": "<script>alert(1)</script>",
+            "type": "XSS",
+            "evidence": "<script>alert(1)</script>"
+        },
+        {
+            "url": "http://testphp.vulnweb.com/search.php?test=query",
+            "payload": "\"'><script>alert(1)</script>",
+            "type": "XSS",
+            "evidence": "\"'><script>alert(1)</script>"
+        }
+    ]
+}
