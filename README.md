@@ -65,4 +65,4 @@ json, os, re
 Mukul Chouhan
 🎓 Electronics and Communication Engineering | Security Enthusiast
 📧 [railfanmy9@gmail.com]
-🌐 [GitHub] • [https://www.linkedin.com/in/mukul-chouhan-596291295/]
+🌐 [LinkedIn] • [https://www.linkedin.com/in/mukul-chouhan-596291295/]
